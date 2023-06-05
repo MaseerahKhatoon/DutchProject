@@ -1,0 +1,38 @@
+{
+  "name": "v1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaseerahKhatoon/v1.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaseerahKhatoon/v1.0/issues"
+  },
+  "homepage": "https://github.com/MaseerahKhatoon/v1.0#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@typechain/ethers-v5": "^11.0.0",
+    "@typechain/hardhat": "^7.0.0",
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^20.2.5",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.14.1",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.2.0",
+    "typescript": "^5.1.3"
+  }
+}
